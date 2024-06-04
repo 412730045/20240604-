@@ -77,7 +77,7 @@ function drawSkeleton() {
      push()
       textSize(40)
       scale(-1,1)
-      text("41273045,林昱睿",partA.x-width,partA.y-100)
+      text("412730045,林昱睿",partA.x-width,partA.y-100)
      pop()
         if (partA.score > 0.1) {
       image(carImg, partC.x, partC.y, 50, 50);
